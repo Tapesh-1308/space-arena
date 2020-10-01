@@ -1,6 +1,7 @@
 import turtle
 import random
 import time
+#import os
 
 # Set up the screen
 wn = turtle.Screen()
